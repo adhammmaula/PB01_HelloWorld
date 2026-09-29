@@ -16,5 +16,5 @@ Aplikasi menampilkan teks "Hello, World!" serta identitas mahasiswa pada emulato
 - Git & GitHub
 
 ## Bukti Aplikasi Berjalan
-![Screenshot Hasil](screenshot.png)
+![Screenshot Aplikasi](screenshothelloworldAdham.png)
 ```
